@@ -52,4 +52,4 @@ Those who earn the Database Engineer Professional Certificate have completed nin
 3. **Reference Material:** Please note that these solutions are for reference purposes to demonstrate the application of database engineering concepts.
 
 ---
-Maintained by Rennie Ramlochanrial you are interested in.
+Maintained by Rennie Ramlochan.
