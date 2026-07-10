@@ -53,5 +53,3 @@ Those who earn the Database Engineer Professional Certificate have completed nin
 
 ---
 Maintained by Rennie Ramlochanrial you are interested in.
-Inside each chapter directory, you will find a section labeled "Portfolio Activities."
-You may consult the solutions and documentation provided for each portfolio activity. Please note that the solutions are for reference purposes, and there is no guarantee that they are the best or only solutions.
